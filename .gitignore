@@ -1,0 +1,5 @@
+packages/
+Tests/bin/
+BlockadeSimulatorCollisionMechanics/bin/
+BlockadeSimulatorCollisionMechanics/obj/
+Tests/obj/
